@@ -7,7 +7,7 @@ Let's study the "(Big) Blue Book" together!
 ## About the book
 "This book belongs on the shelf of every thoughtful Software developer" - Kent Beck
 
-Eric Evans' Domain Driven Design* is a classic for a reason. It is a book filled with insights and knowledge that has significantly influenced the thinking about modelling software. Yet, it's been a while since it was written - this year marks the 20th anniversary (!) - , some techniques have been refined since.
+Eric Evans' Domain Driven Design[^1] is a classic for a reason. It is a book filled with insights and knowledge that has significantly influenced the thinking about modelling software. Yet, it's been a while since it was written - this year marks the 20th anniversary (!) - , some techniques have been refined since.
 That is why we think it is the perfect choice for a study group, where we can deepen our understanding and share our experiences. Whether you're new to DDD or have been practicing it for years, there is (still) wisdom to be found in the blue book.
 
 ## Join us on this endeavor
@@ -16,6 +16,8 @@ The first session will be about getting to know each other and sharing hopes and
 We're looking forward to meeting you!
 
 **Meetup:** https://www.meetup.com/coders-only/events/291161464?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+
+[^1]: [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans / Publisher: Addison-Wesley / ISBN: 0-321-12521-5](https://www.dddcommunity.org/book/evans_2003/)
 
 ---
 
