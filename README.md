@@ -17,6 +17,8 @@ We're looking forward to meeting you!
 
 **Meetup:** https://www.meetup.com/coders-only/events/291161464?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
 
+You can also join our Discord Channel at https://discord.gg/Gykr6b5QBK
+
 [^1]: [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans / Publisher: Addison-Wesley / ISBN: 0-321-12521-5](https://www.dddcommunity.org/book/evans_2003/)
 
 ---
