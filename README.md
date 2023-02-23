@@ -28,6 +28,11 @@ You can also join our Discord Channel at https://discord.gg/Gykr6b5QBK
 ---
 
 ## The Chapters / Lectures schedule
+### Monday, 27-02-2023 - Preface & Forward 
+
+| Chapter         | Keywords | Pages / Count     |  
+|--------------|-----------|-----------:|
+| Preface & Forward  | | ?
 
 ### Monday, 13-03-2023 - Chapter 1 and 2
 
