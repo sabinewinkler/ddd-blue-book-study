@@ -77,7 +77,7 @@ You can also join our Discord Channel at https://discord.gg/Gykr6b5QBK
 |--------------|-----------|-----------:|
 | 9. Making Implicit Concepts Explicit | SPECIFICATION | 205 - 242 (37)
 
-### TBD: Monday, 12-09-2023 - Chapter 10
+### TBD: Monday, 12-06-2023 - Chapter 10
 
 | Chapter         | Keywords | Pages / Count     |  
 |--------------|-----------|-----------:|
