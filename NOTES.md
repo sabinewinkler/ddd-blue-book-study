@@ -9,3 +9,4 @@
 ## Ideas
 
 * Event Storming as Additional Material for Chapter 1
+* Scott Wlaschin, e.g. https://www.youtube.com/watch?v=PLFl95c-IiU as bonus for tactical patterns (e.g. some time around aggregates)
