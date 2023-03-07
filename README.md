@@ -41,6 +41,10 @@ You can also join our Discord Channel at https://discord.gg/Gykr6b5QBK
 | 1. Crunching Knowledge  | |  1 - 22 (21)
 | 2. Communication and the Use of Language | UBIQUITOUS LANGUAGE |  23 - 44 (21)
 
+Additional Content: 
+1. Watch the first 10 minutes of https://www.youtube.com/watch?v=am-HXycfalo to understand bounded contexts.
+2. https://github.com/sabinewinkler/ddd-blue-book-study/blob/main/MARGINALIA.md#chapter-1-maps-are-models---an-ancient-chinese-map
+
 ### Monday, 27-03-2023 - Chapter 3 and 4
 
 | Chapter         | Keywords | Pages / Count     |  
