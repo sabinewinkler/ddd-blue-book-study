@@ -34,6 +34,8 @@ You can also join our Discord Channel at https://discord.gg/Gykr6b5QBK
 |--------------|-----------|-----------:|
 | Preface & Forward  | | ?
 
+---
+
 ### Monday, 13-03-2023 - Chapter 1 and 2
 
 | Chapter         | Keywords | Pages / Count     |  
@@ -43,7 +45,14 @@ You can also join our Discord Channel at https://discord.gg/Gykr6b5QBK
 
 Additional Content: 
 1. Watch the first 10 minutes of https://www.youtube.com/watch?v=am-HXycfalo to understand bounded contexts.
-2. https://github.com/sabinewinkler/ddd-blue-book-study/blob/main/MARGINALIA.md#chapter-1-maps-are-models---an-ancient-chinese-map
+2. Marginalia: [More on the Chinese Map from chapter 1](https://github.com/sabinewinkler/ddd-blue-book-study/blob/main/MARGINALIA.md#chapter-1-maps-are-models---an-ancient-chinese-map)
+3. Marginalia: [A poet is made, not born](https://github.com/sabinewinkler/ddd-blue-book-study/blob/main/MARGINALIA.md#chapter-2-a-poet-is-made,-not-born)
+
+Further links regarding knowledge crunching techniques:
+* [Event Storming](https://www.eventstorming.com/) / an introductionary video on [youtube](https://www.youtube.com/watch?v=fGm62ra_mQ8)
+* [Domain Storytelling](https://domainstorytelling.org/)
+
+---
 
 ### Monday, 27-03-2023 - Chapter 3 and 4
 
@@ -52,7 +61,16 @@ Additional Content:
 | 3. Binding Model and Implementation | MODEL-DRIVEN DESIGN |  45 - 62 (16)
 | 4. Isolating the Domain | LAYERED ARCHITECTURE | 63 - 80 (17)
 
+Additional Content: 
+1. [Scott Wlaschin - Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU)
+2. [Ian Cooper on Clean Architecture](https://youtu.be/SxJPQ5qXisw)
+3. If you even want to go deeper [Alistair Cockburn - Hexagonical Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+4. Marginalia: [A medieval sky computer](https://github.com/sabinewinkler/ddd-blue-book-study/blob/main/MARGINALIA.md#chapter-3-a-medieval-sky-computer)
+---
+
 **Attention: Easter Monday, 10-04-2023, will be skipped!**
+
+---
 
 ### Monday, 17-04-2023 - Chapter 5
 

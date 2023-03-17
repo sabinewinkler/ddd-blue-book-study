@@ -28,6 +28,29 @@ According to a Korean source (translated with Google translator):
 Quoting another source:
 > This mid-1700s Chinese map of the world features an inner continent surrounded by a sea holding fantasy lands and mountains, themselves surrounded by a fictional outer ring of land. The trees to the far east and west mark the areas from which the sun and moon were assumed to rise and set. Data on the mythical lands was drawn from the Shanhai jing, a collection of Chinese myths and fables dating back to the 4th century B.C. [3]
 
+## Chapter 2: A poet is made, not born
+
+An excerpt from the poem "Poeta Fit, Non Nascitur" by the famous creator of "Alice's Adventures in Wonderland" - Lewis Caroll - introduces the chapter on ubiquitous language. 
+
+> For first you write a sentence,
+> 
+> And then you chop it small;
+> 
+> Then mix the bits, and sort them out
+> 
+> Just as they chance to fall:
+> 
+> The order of the phrases makes
+> 
+> No difference at all.
+
+[Here](http://www.online-literature.com/carroll/2822/) you can find the complete poem.
+
+## Chapter 3: A medieval sky computer
+
+"The astrolabe, used to compute star positions, is a mechanical implementation of a model of the sky" p.47
+
+For those, who might wonder, how an atrolabe works, this TED talk may enlighten you. [Tom Wujec demos the 13th-century astrolabe](https://www.youtube.com/watch?v=yioZhHe1i5M)
 
 ## References
 
