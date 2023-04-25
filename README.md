@@ -78,13 +78,21 @@ Additional Content:
 |--------------|-----------|-----------:|
 | 5. A Model Expressed in Software | ENTITIES, <br> VALUE OBJECTS, <br> SERVICES, <br> MODULES | 81 - 122 (41)
 
-### Monday, 01-05-2023 - Chapter 6 (Attention: May Day!)
+---
+
+**Attention: May Day Monday, 01-05-2023, will be skipped!**
+
+---
+
+### Monday, 08-05-2023 - Chapter 6 
 
 | Chapter         | Keywords | Pages / Count     |  
 |--------------|-----------|-----------:|
 | 6. The Life Cycle of a Domain Object | AGGREGATES, <br> FACTORIES, <br>REPOSITORIES | 123 - 162 (39)
 
-### Monday, 15-05-2023 - Chapter 7 and Chapter 8
+---
+
+### Monday, 22-05-2023 - Chapter 7 and Chapter 8
 
 | Chapter         | Keywords | Pages / Count     |  
 |--------------|-----------|-----------:|
@@ -93,19 +101,23 @@ Additional Content:
 
 ---
 
-### TBD: Monday, 29-05-2023 -  Chapter 9  (Attention: Whit Monday!)
+### Monday, 05-06-2023 -  Chapter 9 
 
 | Chapter         | Keywords | Pages / Count     |  
 |--------------|-----------|-----------:|
 | 9. Making Implicit Concepts Explicit | SPECIFICATION | 205 - 242 (37)
 
-### TBD: Monday, 12-06-2023 - Chapter 10
+---
+
+### Monday, 19-06-2023 - Chapter 10
 
 | Chapter         | Keywords | Pages / Count     |  
 |--------------|-----------|-----------:|
 | 10. Supple Design | INTENTION-REVEALING INTERFACES, <br> SIDE-EFFECT-FREE FUNCTIONS, <br> ASSERTIONS, <br> CONCEPTUAL CONTOURS, <br> STANDALONE STANDALONE CLASSES, <br>CLOSURE OF OPERATIONS| 243 - 292 (49)
 
-### TBD: Monday, 26-06-2023 - Chapter 11, 12, 13
+---
+
+### Monday, 03-07-2023 - Chapter 11, 12, 13
 
 | Chapter         | Keywords | Pages / Count     |  
 |--------------|-----------|-----------:|
@@ -113,25 +125,33 @@ Additional Content:
 | 12. Relating Design Patterns to the Model | STRATEGY (A.K.A. POLICY), COMPOSITE, <br>FLYWEIGHT? | 309 - 320 (11)
 | 13. Refactoring Toward Deeper Insight | | 321 - 326 (15)
 
-### TBD: Monday, 10-07-2023 - Chapter 14
+---
+
+### Monday, 17-07-2023 - Chapter 14
 
 | Chapter         | Keywords | Pages     |  
 |--------------|-----------|-----------:|
 | 14. Maintaining Model Integrity | BOUNDED CONTEXT, <br> CONTINUOUS<br> INTEGRATION, <br>CONTEXT MAP,<br>SHARED KERNEL, <br> CUSTOMER/SUPPLIER DEVELOPMENT TEAMS,<br> CONFORMIST, <br>ANTICORRUPTION LAYER, <br>SEPARATE WAYS, <br> OPEN HOST SERVICE, <br> PUBLISHED LANGUAGE | 327 - 396 (59)
 
-### TBD: Monday, 24-07-2023 - Chapter 15 (Summer holidays)
+---
+
+### TBD: Monday, 31-07-2023 - Chapter 15 (Summer holidays)
 
 | Chapter         | Keywords | Pages     |  
 |--------------|-----------|-----------:|
 | 15. Distillation | CORE DOMAIN, <br> GENERIC SUBDOMAINS, <br>DOMAIN VISION STATEMENT, <br>HIGHLIGHTED COKE, <br>COHESIVE MECHANISMS, <br>SEGREGATED CORE, <br>ABSTRACT CORE | 397 - 438 (41)
 
-### TBD: Monday, 07-08-2023 - Chapter 16 (Summer holidays)
+---
+
+### TBD: Monday, 14-08-2023 - Chapter 16 (Summer holidays)
 
 | Chapter         | Keywords | Pages     |  
 |--------------|-----------|-----------:|
 | 16. Large-Scale Structure | EVOLVING ORDER, <br>SYSTEM METAPHOR, <br>RESPONSIBILITY LAYERS, <br>KNOWLEDGE LEVEL, <br>PLUGGABLE COMPONENT FRAMEWORK | 439 - 484 (45)
 
-### TBD: Monday, 21-08-2023 - Chapter 17, Conclusion (Summer holidays)
+---
+
+### TBD: Monday, 28-08-2023 - Chapter 17, Conclusion (Summer holidays)
 
 | Chapter         | Keywords | Pages     |  
 |--------------|-----------|-----------:|
