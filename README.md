@@ -127,7 +127,7 @@ Additional Content:
 
 ---
 
-### Monday, 17-07-2023 - Chapter 14
+### Monday, 24-07-2023 - Chapter 14
 
 | Chapter         | Keywords | Pages     |  
 |--------------|-----------|-----------:|
@@ -135,7 +135,7 @@ Additional Content:
 
 ---
 
-### TBD: Monday, 31-07-2023 - Chapter 15 (Summer holidays)
+### TBD: Monday, 07-08-2023 - Chapter 15 (Summer holidays)
 
 | Chapter         | Keywords | Pages     |  
 |--------------|-----------|-----------:|
@@ -143,7 +143,7 @@ Additional Content:
 
 ---
 
-### TBD: Monday, 14-08-2023 - Chapter 16 (Summer holidays)
+### TBD: Monday, 21-08-2023 - Chapter 16 (Summer holidays)
 
 | Chapter         | Keywords | Pages     |  
 |--------------|-----------|-----------:|
@@ -151,7 +151,7 @@ Additional Content:
 
 ---
 
-### TBD: Monday, 28-08-2023 - Chapter 17, Conclusion (Summer holidays)
+### TBD: Monday, 04-09-2023 - Chapter 17, Conclusion (Summer holidays)
 
 | Chapter         | Keywords | Pages     |  
 |--------------|-----------|-----------:|
