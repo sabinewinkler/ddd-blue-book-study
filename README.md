@@ -30,18 +30,18 @@ You can also join our Discord Channel at https://discord.gg/Gykr6b5QBK
 ## The Chapters / Lectures schedule
 ### Monday, 27-02-2023 - Preface & Forward 
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| Preface & Forward  | | ?
+| Chapter           | Keywords | Pages / Count |
+| ----------------- | -------- | ------------: |
+| Preface & Forward |          |             ? |
 
 ---
 
 ### Monday, 13-03-2023 - Chapter 1 and 2
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| 1. Crunching Knowledge  | |  1 - 22 (21)
-| 2. Communication and the Use of Language | UBIQUITOUS LANGUAGE |  23 - 44 (21)
+| Chapter                                  | Keywords            | Pages / Count |
+| ---------------------------------------- | ------------------- | ------------: |
+| 1. Crunching Knowledge                   |                     |   1 - 22 (21) |
+| 2. Communication and the Use of Language | UBIQUITOUS LANGUAGE |  23 - 44 (21) |
 
 Additional Content: 
 1. Watch the first 10 minutes of https://www.youtube.com/watch?v=am-HXycfalo to understand bounded contexts.
@@ -56,10 +56,10 @@ Further links regarding knowledge crunching techniques:
 
 ### Monday, 27-03-2023 - Chapter 3 and 4
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| 3. Binding Model and Implementation | MODEL-DRIVEN DESIGN |  45 - 62 (16)
-| 4. Isolating the Domain | LAYERED ARCHITECTURE | 63 - 80 (17)
+| Chapter                             | Keywords             | Pages / Count |
+| ----------------------------------- | -------------------- | ------------: |
+| 3. Binding Model and Implementation | MODEL-DRIVEN DESIGN  |  45 - 62 (16) |
+| 4. Isolating the Domain             | LAYERED ARCHITECTURE |  63 - 80 (17) |
 
 Additional Content: 
 1. [Scott Wlaschin - Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU)
@@ -74,9 +74,9 @@ Additional Content:
 
 ### Monday, 17-04-2023 - Chapter 5
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| 5. A Model Expressed in Software | ENTITIES, <br> VALUE OBJECTS, <br> SERVICES, <br> MODULES | 81 - 122 (41)
+| Chapter                          | Keywords                                                  | Pages / Count |
+| -------------------------------- | --------------------------------------------------------- | ------------: |
+| 5. A Model Expressed in Software | ENTITIES, <br> VALUE OBJECTS, <br> SERVICES, <br> MODULES | 81 - 122 (41) |
 
 ---
 
@@ -86,75 +86,85 @@ Additional Content:
 
 ### Monday, 08-05-2023 - Chapter 6 
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| 6. The Life Cycle of a Domain Object | AGGREGATES, <br> FACTORIES, <br>REPOSITORIES | 123 - 162 (39)
+| Chapter                              | Keywords                                     |  Pages / Count |
+| ------------------------------------ | -------------------------------------------- | -------------: |
+| 6. The Life Cycle of a Domain Object | AGGREGATES, <br> FACTORIES, <br>REPOSITORIES | 123 - 162 (39) |
 
 ---
 
 ### Monday, 22-05-2023 - Chapter 7 and Chapter 8
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| 7. Using the Language: An Extended Example | | 163 - 186 (23)
-| 8. Breakthrough | | 187 - 204 (27)
+| Chapter                                    | Keywords |  Pages / Count |
+| ------------------------------------------ | -------- | -------------: |
+| 7. Using the Language: An Extended Example |          | 163 - 186 (23) |
+| 8. Breakthrough                            |          | 187 - 204 (27) |
 
 ---
 
 ### Monday, 05-06-2023 -  Chapter 9 
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| 9. Making Implicit Concepts Explicit | SPECIFICATION | 205 - 242 (37)
+| Chapter                              | Keywords      |  Pages / Count |
+| ------------------------------------ | ------------- | -------------: |
+| 9. Making Implicit Concepts Explicit | SPECIFICATION | 205 - 242 (37) |
 
 ---
 
 ### Monday, 19-06-2023 - Chapter 10
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| 10. Supple Design | INTENTION-REVEALING INTERFACES, <br> SIDE-EFFECT-FREE FUNCTIONS, <br> ASSERTIONS, <br> CONCEPTUAL CONTOURS, <br> STANDALONE STANDALONE CLASSES, <br>CLOSURE OF OPERATIONS| 243 - 292 (49)
+| Chapter           | Keywords                                                                                                                                                                  |  Pages / Count |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------: |
+| 10. Supple Design | INTENTION-REVEALING INTERFACES, <br> SIDE-EFFECT-FREE FUNCTIONS, <br> ASSERTIONS, <br> CONCEPTUAL CONTOURS, <br> STANDALONE STANDALONE CLASSES, <br>CLOSURE OF OPERATIONS | 243 - 292 (49) |
 
 ---
 
 ### Monday, 03-07-2023 - Chapter 11, 12, 13
 
-| Chapter         | Keywords | Pages / Count     |  
-|--------------|-----------|-----------:|
-| 11. Applying Analysis Patterns | | 293 - 308 (15)
-| 12. Relating Design Patterns to the Model | STRATEGY (A.K.A. POLICY), COMPOSITE, <br>FLYWEIGHT? | 309 - 320 (11)
-| 13. Refactoring Toward Deeper Insight | | 321 - 326 (15)
+| Chapter                                   | Keywords                                            |  Pages / Count |
+| ----------------------------------------- | --------------------------------------------------- | -------------: |
+| 11. Applying Analysis Patterns            |                                                     | 293 - 308 (15) |
+| 12. Relating Design Patterns to the Model | STRATEGY (A.K.A. POLICY), COMPOSITE, <br>FLYWEIGHT? | 309 - 320 (11) |
+| 13. Refactoring Toward Deeper Insight     |                                                     | 321 - 326 (15) |
 
 ---
 
 ### Monday, 24-07-2023 - Chapter 14
 
-| Chapter         | Keywords | Pages     |  
-|--------------|-----------|-----------:|
-| 14. Maintaining Model Integrity | BOUNDED CONTEXT, <br> CONTINUOUS<br> INTEGRATION, <br>CONTEXT MAP,<br>SHARED KERNEL, <br> CUSTOMER/SUPPLIER DEVELOPMENT TEAMS,<br> CONFORMIST, <br>ANTICORRUPTION LAYER, <br>SEPARATE WAYS, <br> OPEN HOST SERVICE, <br> PUBLISHED LANGUAGE | 327 - 396 (59)
+| Chapter                         | Keywords                                                                                                                                                                                                                                    |          Pages |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------: |
+| 14. Maintaining Model Integrity | BOUNDED CONTEXT, <br> CONTINUOUS<br> INTEGRATION, <br>CONTEXT MAP,<br>SHARED KERNEL, <br> CUSTOMER/SUPPLIER DEVELOPMENT TEAMS,<br> CONFORMIST, <br>ANTICORRUPTION LAYER, <br>SEPARATE WAYS, <br> OPEN HOST SERVICE, <br> PUBLISHED LANGUAGE | 327 - 396 (59) |
 
 ---
 
-### TBD: Monday, 07-08-2023 - Chapter 15 (Summer holidays)
+### Monday, 31-07-2023 - Chapter 14 (Follow-up)
 
-| Chapter         | Keywords | Pages     |  
-|--------------|-----------|-----------:|
-| 15. Distillation | CORE DOMAIN, <br> GENERIC SUBDOMAINS, <br>DOMAIN VISION STATEMENT, <br>HIGHLIGHTED COKE, <br>COHESIVE MECHANISMS, <br>SEGREGATED CORE, <br>ABSTRACT CORE | 397 - 438 (41)
+| Chapter                         | Keywords                                                                                                                                                                                                                                    |          Pages |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------: |
+| 14. Maintaining Model Integrity | BOUNDED CONTEXT, <br> CONTINUOUS<br> INTEGRATION, <br>CONTEXT MAP,<br>SHARED KERNEL, <br> CUSTOMER/SUPPLIER DEVELOPMENT TEAMS,<br> CONFORMIST, <br>ANTICORRUPTION LAYER, <br>SEPARATE WAYS, <br> OPEN HOST SERVICE, <br> PUBLISHED LANGUAGE | 327 - 396 (59) |
 
----
-
-### TBD: Monday, 21-08-2023 - Chapter 16 (Summer holidays)
-
-| Chapter         | Keywords | Pages     |  
-|--------------|-----------|-----------:|
-| 16. Large-Scale Structure | EVOLVING ORDER, <br>SYSTEM METAPHOR, <br>RESPONSIBILITY LAYERS, <br>KNOWLEDGE LEVEL, <br>PLUGGABLE COMPONENT FRAMEWORK | 439 - 484 (45)
+It might be helpful to have a short look at CORE DOMAIN (part of chapter 15.)
 
 ---
 
-### TBD: Monday, 04-09-2023 - Chapter 17, Conclusion (Summer holidays)
+### Monday, 14-08-2023 - Chapter 15 (Summer holidays)
 
-| Chapter         | Keywords | Pages     |  
-|--------------|-----------|-----------:|
-| 17. Bringing the Strategy Together | | 485 - 498 (13)
-| Conclusion | | 499 - 507 (8)
+| Chapter          | Keywords                                                                                                                                                 |          Pages |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------: |
+| 15. Distillation | CORE DOMAIN, <br> GENERIC SUBDOMAINS, <br>DOMAIN VISION STATEMENT, <br>HIGHLIGHTED COKE, <br>COHESIVE MECHANISMS, <br>SEGREGATED CORE, <br>ABSTRACT CORE | 397 - 438 (41) |
+
+---
+
+### Monday, 28-08-2023 - Chapter 16 (Summer holidays)
+
+| Chapter                   | Keywords                                                                                                               |          Pages |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------: |
+| 16. Large-Scale Structure | EVOLVING ORDER, <br>SYSTEM METAPHOR, <br>RESPONSIBILITY LAYERS, <br>KNOWLEDGE LEVEL, <br>PLUGGABLE COMPONENT FRAMEWORK | 439 - 484 (45) |
+
+---
+
+### TBD: "Final Biergarten session" - Chapter 17, Conclusion
+
+| Chapter                            | Keywords |          Pages |
+| ---------------------------------- | -------- | -------------: |
+| 17. Bringing the Strategy Together |          | 485 - 498 (13) |
+| Conclusion                         |          |  499 - 507 (8) |
 
